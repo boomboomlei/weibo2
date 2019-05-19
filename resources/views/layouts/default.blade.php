@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>@yield('title', 'Weibo App') - Laravel 入门教程</title>
+    <title>@yield('title', 'Weibo App') -来了老弟</title>
     <!-- <link rel="stylesheet" href="/css/app.css"> -->
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
   </head>
